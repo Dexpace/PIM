@@ -1,0 +1,73 @@
+[
+  {
+    "Con_nome": "Jantura",
+    "Con_cnpj": "123-123-123",
+    "Con_endereco": "123-123-123",
+    "Con_numero": "550",
+    "Con_cidade": "Juntia",
+    "Con_uf": "sp",
+    "Con_bairro": "Vila",
+    "Con_tel": "33-333-336",
+    "Con_areas": null
+  },
+  {
+    "Con_nome": "Cantura",
+    "Con_cnpj": "123-123-123",
+    "Con_endereco": "123-123-123",
+    "Con_numero": "650",
+    "Con_cidade": "Areias",
+    "Con_uf": "sp",
+    "Con_bairro": "Carvalho",
+    "Con_tel": "33-333-333",
+    "Con_areas": [
+      "sala-jogos",
+      "piscina-cobertura",
+      "salao-festas"
+    ]
+  },
+  {
+    "Con_nome": "dads",
+    "Con_cnpj": "sdas",
+    "Con_endereco": "asdas",
+    "Con_numero": "asdas",
+    "Con_cidade": "asd",
+    "Con_uf": "asd",
+    "Con_bairro": "asdas",
+    "Con_tel": "asdsa",
+    "Con_areas": [
+      "asdsa",
+      "asdasd",
+      "asdsad"
+    ]
+  },
+  {
+    "Con_nome": "dagisd",
+    "Con_cnpj": "asdfaf",
+    "Con_endereco": "afsdaf",
+    "Con_numero": "adfs",
+    "Con_cidade": "sdfad",
+    "Con_uf": "dasfd",
+    "Con_bairro": "asdf",
+    "Con_tel": "sdfasf",
+    "Con_areas": [
+      "sadf",
+      "sdfasd",
+      "sadf"
+    ]
+  },
+  {
+    "Con_nome": "zula",
+    "Con_cnpj": "5346",
+    "Con_endereco": "dasd",
+    "Con_numero": "asdas",
+    "Con_cidade": "asdas",
+    "Con_uf": "asdas",
+    "Con_bairro": "asdas",
+    "Con_tel": "asdas",
+    "Con_areas": [
+      "asdas",
+      "saddas",
+      "asdas"
+    ]
+  }
+]
